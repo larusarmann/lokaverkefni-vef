@@ -1,2 +1,4 @@
 # lokaverkefni-vef
-Karl og Lárus
+## KARL OG LÁRUS
+
+Við ákváðum að velja CSGO sem aðal atriði til að fjalla um í vefsíðuni.
